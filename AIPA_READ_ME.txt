@@ -1,6 +1,6 @@
 Welcome!
 Artificial Intelligence Personal Assistant
-
+--------------------------------------------------------------------------------------
 This project is planned to be artificial intelligence and learning about your home AIPA. 
 AIPA will arrange to have speakers and microphones in each house room and have a system like Raspberry Pi.
 The Raspberry Pi will be able to comprehend if AIPA  is getting talked to and different rooms simultaneously. 
