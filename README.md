@@ -1,7 +1,5 @@
 # Project-AIPA
 
-#Welcome!
-
 Artificial Intelligence Personal Assistant
 --------------------------------------------------------------------------------------
 This project is planned to be artificial intelligence and learning about your home AIPA. 
