@@ -1,8 +1,27 @@
-# Project-AIPA
+# Project-AIPA Info Not finnshed yet
 
 Artificial Intelligence Personal Assistant
 --------------------------------------------------------------------------------------
-This project is planned to be artificial intelligence and learning about your home AIPA. 
+AIPA is a personal assistant that has artificial intelligence that will be later on added. AIPA  will have many features is to it. AIPA is a six-year project and motion.  the plan is to be open to the public and to make the newest end latest Smart Home personal assistant that is open source. the list below will describe the things AIPA will have.
+
+__ Indivigal speaker control and multi speaker control # Example can tell AIPA to play in only two certain rooms of a certain songs
+
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
+__
 AIPA will arrange to have speakers and microphones in each house room and have a system like Raspberry Pi.
 The Raspberry Pi will be able to comprehend if AIPA  is getting talked to and different rooms simultaneously. 
 The plane will be able to find various commands at the same time.
