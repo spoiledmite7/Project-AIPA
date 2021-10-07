@@ -5,3 +5,9 @@ https://towardsdatascience.com/how-to-build-your-own-ai-personal-assistant-using
 
 Trello 
 https://trello.com/invite/b/JpWMAvbe/da5e4590636351f025f30a5fc01d85b8/project-aipa
+
+Speech recognition
+https://pypi.org/project/SpeechRecognition/
+
+pyttsx3 akatxt to speech
+https://pypi.org/project/pyttsx3/
