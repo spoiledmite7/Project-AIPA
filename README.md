@@ -25,9 +25,15 @@ Please read the list below of things that are thinking about including in the AI
 -------------------------------------------------------------------------
 Here are some of the ideas and goals of AIPA 1-10 most useful/possible 
 -1. music
+
 -2. lights and speaker control
+
 -3. LEDs color  code 
+
 -4. voice recognition 
+
 -5. home security system
+
 -6. security camera system
+
 -7. artificial intelligence
