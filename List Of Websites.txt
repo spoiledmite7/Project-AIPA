@@ -1,3 +1,7 @@
 List Of Websites
 
+How to build AIPA
 https://towardsdatascience.com/how-to-build-your-own-ai-personal-assistant-using-python-f57247b4494b
+
+Trello 
+https://trello.com/invite/b/JpWMAvbe/da5e4590636351f025f30a5fc01d85b8/project-aipa
