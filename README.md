@@ -9,11 +9,17 @@ These plans are future goals
 __ Indivigal speaker control and multi speaker control # Example can tell AIPA to play in only two certain rooms of a certain songs
 
 __a TV planed contorlor by AIPA 
+
 __AIPA  is getting talked to and different rooms simultaneously
+
 __AIPA will be able to find various commands at the same time when talink to AIPA in differnt rooms at the same time
+
 __ override command where AIPA  will outplay through every speaker in the house end speak the command--certain saying for this override
+
 __ Smart devices will be connected through Bluetooth or Wi-Fi through the house of IOT devices. 
+
 __figure out any audio plugin Port for a variety of microphone inputs
+
 --------------------------------------------------------------------------------------
 Please read the list below of things that are thinking about including in the AIPA
 -------------------------------------------------------------------------
