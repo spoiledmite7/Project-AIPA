@@ -1,4 +1,4 @@
-# Project-AIPA Info Not finnshed yet
+# Project-AIPA Info
 
 Artificial Intelligence Personal Assistant
 --------------------------------------------------------------------------------------
